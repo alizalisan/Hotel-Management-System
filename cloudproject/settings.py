@@ -121,3 +121,4 @@ STATICFILES_DIR = {
     os.path.join(BASE_DIR, "static"),
     '/Projects/cloudproject/hotelmanagement/static/',
 }
+
